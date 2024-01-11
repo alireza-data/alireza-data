@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQFgkkmVysuiFA/profile-displaybackgroundimage-shrink_350_1400/0/1637537099188?e=1703116800&v=beta&t=MdgihQiMX8gKjrePwHI-EVVAUrEVNTsh2Wm6kPm5gMw)](https://www.linkedin.com/in/alirezavalizadeh/)
+![MasterHead](https://i.postimg.cc/XJFwmXqp/1637537099668.jpg)
 <h1 align="center">Hi mate, I'm Alireza👨‍🔬</h1>
 <h3 align="center">A data nerd</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpvcnJ5YzZkYWowdW5kbTlnMmF0d21zaWZ5em44c2FpdjgwdDkwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zdxr6MIPyWNqEfSRqh/giphy.gif" alt="Scientist GIF" style="float: right; margin-right: 20px; width: 200px; height: auto;">
